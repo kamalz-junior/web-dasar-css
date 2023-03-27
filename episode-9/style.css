@@ -1,0 +1,29 @@
+/* Color */
+
+/* foreground */
+
+/* Color Name */
+h1 {
+    color:#ffff;
+}
+
+/* hex code */
+h2 {
+    color: #ee3e80;
+}
+
+/* rgb value */
+
+p {
+    color: rgb(100, 100, 100);
+    background-color: aquamarine;
+}
+
+/* Background color */
+body{
+    background-color: #c0b9b9ef;
+}
+
+h1{
+    background-color: darkcyan;
+}
