@@ -1,0 +1,31 @@
+*{
+    font-family: arial;
+}
+
+h1{
+    background-color: aliceblue;
+    padding: 10px;
+    text-align: center;
+}
+
+h2{
+    background-color:#222222;
+    color: #fff;
+    padding: 10px;
+}
+
+h3{
+    padding: 10px;
+    background-color: rgb(248, 216, 221);
+    font-size: 12px;
+}
+
+h3>span{
+    color: salmon;
+    padding: inherit;
+}
+
+body{
+    background-color: rgb(217, 241, 233);
+    padding: 5px;
+}
