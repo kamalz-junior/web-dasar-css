@@ -1,0 +1,49 @@
+*{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.header{
+    background-color: aqua;
+    padding: 10px;
+    display: flex;
+    justify-content: center;
+    
+    
+}
+.header:hover{
+    background-color: aquamarine;
+}
+.header-title{
+    font-size: 3em;
+    text-decoration: none;
+    font-weight: bold;
+    color: aliceblue;
+}
+.judul{
+    background-color: rgb(255, 158, 122);
+    padding: 5px;
+    display: flex;
+    justify-content: center;
+    margin-top: 10px;
+    font-size: 20px;
+    color: aliceblue;
+}
+
+.konten{
+    max-width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.konten-credit{
+    font-size: 14px;
+    font-weight: normal;
+
+}
+.penulis{
+    color: crimson;
+}
+.tanggal{
+    color: olive;
+}
+span{
+    color: blue;
+}
