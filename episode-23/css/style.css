@@ -22,6 +22,6 @@ ul li{
 ol.singkat{
     list-style:lower-greek inside;
 }
-ul.singkat{
+ul.singkat{ 
     list-style:georgian circle;
 }
